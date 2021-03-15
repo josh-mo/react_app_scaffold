@@ -1,0 +1,17 @@
+{
+  "name": "wepack_hello_world",
+  "author": {
+    "name": "zendesk",
+    "email": "support@zendesk.com",
+    "url": "https://www.zendesk.com"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": {
+    "support": {
+      "ticket_sidebar": "assets/ticket_sidebar.html"
+    }
+  },
+  "version": "1.0.0",
+  "frameworkVersion": "2.0"
+}
