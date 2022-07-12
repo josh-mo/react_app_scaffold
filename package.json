@@ -6,7 +6,8 @@
     "build": "webpack --mode=production",
     "dev": "webpack --mode development",
     "watch": "webpack --watch --mode=development",
-    "start": "zcli apps:server ./dist"
+    "start": "zcli apps:server ./dist",
+    "zat": "zat server --path=./dist --unattended"
   },
   "keywords": [],
   "author": "",
